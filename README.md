@@ -1,9 +1,22 @@
-- Hello Visitor, this is "Darshan Patel" (a.k.a  MrQuantum1915) an Undergrad Computer Science student
+# Hola, Visitor! 👋  
+I’m **Darshan Patel** (a.k.a. *MrQuantum1915*), an undergraduate Computer Science student.
 
-- I am passionate about and eager to explore various fields in CS including AI/ML, Cyber Security, Quantum Computing, etc., their Applications in real world and solving Real world problems, in the time ahead.
+---
 
-- Always eager to gain knowledge, explore new technologies and always curious for finding how and why the things happens so. Critical deep thinking and problem solving are at core of thinking process.
+- I’m passionate about exploring diverse fields in CS like : **AI/ML**, **Cybersecurity**, **Quantum Computing**, etc., and their real-world applications. I’m driven by a desire to solve meaningful problems and make an impact through technology.
 
-- Additionally, I love Physics and Mathematics. I'm also captivated by the mysteries of Astronomy! Particularly how we can connect Technology to this domains to explore the universe and beyond!
+- Always eager to learn and gain knowledge, I’m curious about how and why things work that way. Critical thinking, deep analysis, and problem-solving are at the heart of how I approach challenges.
 
-- Besides the core Computer Science theories, Currently practicing Competitive Programing. Learning and making projects in Full Stack WebDev, 3D graphics & animations. Exploring Machine Learning and its beautifull Mathematics.
+- I love to explore new technologies and study their working principles.
+
+- I adapt to newer technologies pretty quickly.
+
+- Beyond computer science, I have a deep love for **Physics** and **Mathematics**, and I’m fascinated by the mysteries of **Astronomy** — especially how technology can help us explore the universe and beyond.
+
+- Alongside my CS studies under the institute’s academics, I’m actively practicing **Competitive Programming**, building projects in **Full Stack Web Development**, diving into **3D graphics and animations**, and exploring the beautiful mathematics behind **Machine Learning**.
+
+---
+
+*Feel free to check out my projects or connect with me - I’m always excited to collaborate or discuss ideas!*
+
+*You can check out links on my profile to connect with me*
