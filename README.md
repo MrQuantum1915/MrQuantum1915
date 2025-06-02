@@ -9,7 +9,7 @@ I’m **Darshan Patel** (a.k.a. *MrQuantum1915*), an undergraduate Computer Scie
 
 - I love to explore new technologies and study their working principles.
 
-- I adapt to newer technologies pretty quickly.
+- I adapt to newer technologies and tools in the universe of computer science pretty quickly.
 
 - Beyond computer science, I have a deep love for **Physics** and **Mathematics**, and I’m fascinated by the mysteries of **Astronomy** — especially how technology can help us explore the universe and beyond.
 
