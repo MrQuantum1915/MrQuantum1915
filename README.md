@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Darshan Patel a.k.a  MrQuantum1915 an Undergrad Computer Science student
+- Hello Visitor, this is "Darshan Patel" (a.k.a  MrQuantum1915) an Undergrad Computer Science student
 
 - I am passionate about and eager to explore various fields in CS including AI/ML, Cyber Security, Quantum Computing, etc., their Applications in real world and solving Real world problems, in the time ahead.
 
@@ -6,5 +6,4 @@
 
 - Additionally, I love Physics and Mathematics. I'm also captivated by the mysteries of Astronomy! Particularly how we can connect Technology to this domains to explore the universe and beyond!
 
-Currently practicing Competitive Programing. Learning Full Stack WebDev, 3D graphics & animations.
-Learning Machine Learning and its beautifull Mathematics.
+- Besides the core Computer Science theories, Currently practicing Competitive Programing. Learning and making projects in Full Stack WebDev, 3D graphics & animations. Exploring Machine Learning and its beautifull Mathematics.
