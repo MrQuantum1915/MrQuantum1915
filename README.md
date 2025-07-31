@@ -1,4 +1,4 @@
-# Hola, Visitor! 👋  
+# Hola, Visitor! 🤟 
 I’m **Darshan Patel** (a.k.a. *MrQuantum1915*), an undergraduate Computer Science student.
 
 ---
