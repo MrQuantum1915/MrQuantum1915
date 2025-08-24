@@ -15,6 +15,9 @@ I’m **Darshan Patel** (a.k.a. *MrQuantum1915*), an undergraduate Computer Scie
 
 - Alongside my CS studies under the institute’s academics, I’m actively practicing **Competitive Programming**, building projects in **Full Stack Web Development**, diving into **3D graphics and animations**, and exploring the beautiful mathematics behind **Machine Learning**.
 
+
+## _Always exploring the bigger picture_
+
 ---
 
 *Feel free to check out my projects or connect with me - I’m always excited to collaborate or discuss ideas!*
