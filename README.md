@@ -3,7 +3,7 @@ I’m **Darshan Patel** (a.k.a. *MrQuantum1915*), an undergraduate Computer Scie
 
 ---
 
-- I’m passionate about exploring diverse fields in CS like : **AI/ML**, **Cybersecurity**, **Quantum Computing**, etc., and their real-world applications. I’m driven by a desire to solve meaningful problems and make an impact through technology.
+- I am driven by the field of computer science, and I am particularly interested in **AI/ML**, **Cybersecurity**, and **Quantum Computing** as my future scope and their Applications in real world.. I’m also driven by a desire to solve meaningful problems and make an impact through technology.
 
 - Always eager to learn and gain knowledge, I’m curious about how and why things work that way. Critical thinking, deep analysis, and problem-solving are at the heart of how I approach challenges.
 
