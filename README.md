@@ -11,12 +11,14 @@ I’m **Darshan Patel** (a.k.a. *MrQuantum1915*), an undergraduate Computer Scie
 
 - I adapt to newer technologies and tools in the universe of computer science pretty quickly.
 
-- Beyond computer science, I have a deep love for **Physics** and **Mathematics**, and I’m fascinated by the mysteries of **Astronomy** — especially how technology can help us explore the universe and beyond.
+- Beyond computer science, I have a deep love for **Physics** and **Mathematics**, and I’m fascinated by the mysteries of **Astronomy** - especially how technology can help us explore the universe and beyond.
+- My curiosity also pulls me into metaphysics and philosophy connecting them with astronomy and quantum level, where deep thinking about reality, existence, and the universe constantly fuels my perspective.
 
 - Alongside my CS studies under the institute’s academics, I’m actively practicing **Competitive Programming**, building projects in **Full Stack Web Development**, diving into **3D graphics and animations**, and exploring the beautiful mathematics behind **Machine Learning**.
 
 
-## _Always exploring the bigger picture_
+## _Always exploring the bigger picture_ 
+## _A bit of polymath_
 
 ---
 
