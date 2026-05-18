@@ -1,7 +1,7 @@
 # Hola, Visitor! 🤟 
-I’m **Darshan Patel** (a.k.a. *MrQuantum1915*), an undergraduate Computer Science student.
+I’m **Darshan Patel** (a.k.a *MrQuantum1915*), an Undergrad Computer Science student.
 
-# <i><b><u>[Visit My Website](https://mrquantum1915.github.io)</u></b></i>
+<b><u>[Visit My Website](https://mrquantum1915.github.io)</u></b>
 
 ---
 
@@ -19,8 +19,6 @@ I’m **Darshan Patel** (a.k.a. *MrQuantum1915*), an undergraduate Computer Scie
 
 ## _Always exploring the bigger picture_ 
 ## _A bit of polymath_
-
----
 
 *Feel free to check out my projects or connect with me - I’m always excited to collaborate or discuss ideas!*
 
